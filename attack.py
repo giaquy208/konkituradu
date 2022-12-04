@@ -37,7 +37,7 @@ def flood(victim, vport, duration):
 		print "\033[1;91mAmount \033[1;32m%s \033[1;91mPacket Sent \033[1;91mPort server \033[1;32m%s "%(sent, victim, vport)	
 def main():		
 	print len(sys.argv)
-	if len(sys.argv) != 4;
+	if len(sys.argv) != 4:
 	   usage()
 	else:
 	   flood(sys.argv)
