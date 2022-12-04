@@ -7,7 +7,7 @@ def usage():
     print "\033[1;32m#########################################################"
     print "#----------------------[\033[1;91mLITE-DDOS\033[1;32m]----------------------#"
     print "#-------------------------------------------------------#"
-    print "#   \033[1;91mCommand:" "python2 LITEDDOS.py " "<ip> <port> <packet> \033[1;32m   #"
+    print "#   \033[1;91mthis is:" "ddos udp attack command " "<ip> <port> <packet> \033[1;32m   #"
     print "#                                                       #"
     print "#\033[1;91mCreator:DGQ-DEV    \033[1;32m##      ###       ##                #"
     print "#\033[1;91mTeam   :VH-TEAM    \033[1;32m##     #          ##                #"
